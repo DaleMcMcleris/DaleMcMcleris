@@ -7,6 +7,8 @@
 </p>
 <br>
 
+
+
 # 🧰  Languages and Tools 🧰
 <br> <br>
 
@@ -23,23 +25,46 @@
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br> <br> <br> 
+<br>
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=dalemcmcleris&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dalemcmcleris&theme=radical&hide_border=false)<br/>
+
+<!--
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalemcmcleris&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
+
+<!--
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dalemcmcleris&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+-->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dalemcmcleris&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<br>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=dalemcmcleris&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/> <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dalemcmcleris&theme=blue-green&hide_border=false)<br/>
-
-<br> 
-
- <summary><h1>👨‍💻 Dale's Coding Journey</h1></summary>
+<h2>
+    <summary>👨‍💻 Dale's Coding Journey</summary>
+</h2>
 
 As a self-taught software engineer, I am passionate about developing beautiful and functional web experiences. With a focus on frontend development and web design, I strive to create visually stunning and highly intuitive user interfaces that delight and engage users. As a tech enthusiast, I am constantly exploring new technologies and techniques to push the boundaries of what is possible on the web, from responsive layouts to cutting-edge graphics and animations. Whether working independently or as part of a team, I am committed to delivering exceptional results and exceeding the expectations of clients and users alike.
+<br>
 
-<summary>
+<br>
  
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DaleMcMcleris) 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/dale-mcmclery-54326326a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dale_mcmclery/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@DaleMcMclery) 
+
+
 
 
