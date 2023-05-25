@@ -49,12 +49,9 @@
 
 -->
 
-<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<br>
 
 <h2>
     <summary>👨‍💻 Dale's Coding Journey</summary>
