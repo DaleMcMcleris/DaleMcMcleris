@@ -27,7 +27,8 @@
 <br> <br> <br> 
 <br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Statistics:
+
 
 ![](https://github-readme-stats.vercel.app/api?username=dalemcmcleris&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dalemcmcleris&theme=radical&hide_border=false)<br/>
@@ -40,8 +41,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dalemcmcleris&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 -->
+
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<<<<<<< HEAD
 
 <!--
 ### 🔝 Top Contributed Repo
@@ -49,6 +53,14 @@
 
 -->
 
+=======
+-->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dalemcmcleris&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+
+<br>
+>>>>>>> Styles
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
