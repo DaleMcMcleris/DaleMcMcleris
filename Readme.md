@@ -27,7 +27,8 @@
 <br> <br> <br> 
 <br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Statistics:
+
 
 ![](https://github-readme-stats.vercel.app/api?username=dalemcmcleris&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dalemcmcleris&theme=radical&hide_border=false)<br/>
