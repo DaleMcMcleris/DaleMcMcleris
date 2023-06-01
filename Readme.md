@@ -53,14 +53,12 @@
 
 -->
 
-=======
--->
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dalemcmcleris&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 <br>
->>>>>>> Styles
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
