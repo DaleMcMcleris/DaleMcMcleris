@@ -42,20 +42,21 @@
 ![](https://github-profile-trophy.vercel.app/?username=dalemcmcleris&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 -->
 
-<!--
-### ✍️ Random Dev Quote
+
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<<<<<<< HEAD
+
 
 <!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dalemcmcleris&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 -->
-
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dalemcmcleris&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!-- 
+
 
 
 <br>
