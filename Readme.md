@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)
+![I am GitHub Readme Generator's creator](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010127.jpg?w=996&t=st=1687001389~exp=1687001989~hmac=6a075ff83d1270ddc8c73b632d656d9e16fcf9da737793dbc8e49acd65ea06ac)
 # Hello there
 # I'm Dale McMcleris
 
