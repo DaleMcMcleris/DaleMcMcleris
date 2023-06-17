@@ -1,9 +1,9 @@
-![I am GitHub Readme Generator's creator](https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)
+![I am GitHub Readme Generator's creator](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010127.jpg?w=996&t=st=1687001389~exp=1687001989~hmac=6a075ff83d1270ddc8c73b632d656d9e16fcf9da737793dbc8e49acd65ea06ac)
 # Hello there
 # I'm Dale McMcleris
 
 
-<p>A software engineer crafting stunning web experiences with pixel-perfect precision - a frontend developer passionate about combining beautiful design with seamless functionality for an unforgettable user experience.
+<p>A software engineer crafting stunning web experiences with pixel-perfect precision - a frontend developer passionate about combining beautiful design with seamless functionality for an unforgettable user experience. I am an AI prompt engineer, deeply devoted to the world of technology and artificial intelligence. Driven by an insatiable passion, I aim to push the boundaries of what's possible, unraveling the extraordinary capabilities of AI to revolutionize our world.
 </p>
 <br>
 
@@ -42,20 +42,27 @@
 ![](https://github-profile-trophy.vercel.app/?username=dalemcmcleris&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 -->
 
-<!--
-### ✍️ Random Dev Quote
+
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
--->
+
+
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dalemcmcleris&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+-->
+<!--
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dalemcmcleris&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!-- 
+
 
 
 <br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<br>
 
 <h2>
     <summary>👨‍💻 Dale's Coding Journey</summary>
