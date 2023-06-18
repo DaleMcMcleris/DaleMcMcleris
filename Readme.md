@@ -1,4 +1,7 @@
-![I am GitHub Readme Generator's creator](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010127.jpg?w=996&t=st=1687001389~exp=1687001989~hmac=6a075ff83d1270ddc8c73b632d656d9e16fcf9da737793dbc8e49acd65ea06ac)
+
+  <img src="images/Me.jpg" alt="Code"> 
+  <!-- Background image for Dale comes here -->
+
 # Hello there
 # I'm Dale McMcleris
 
