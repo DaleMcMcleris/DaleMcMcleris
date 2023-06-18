@@ -5,7 +5,6 @@
 # Hello there  
 # I'm Dale McMcleris
 
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/Fy6HHj1X0AEHTCL?format=jpg&name=large)
 
 <p>A software engineer crafting stunning web experiences with pixel-perfect precision - a frontend developer passionate about combining beautiful design with seamless functionality for an unforgettable user experience. I am an AI prompt engineer, deeply devoted to the world of technology and artificial intelligence. Driven by an insatiable passion, I aim to push the boundaries of what's possible, unraveling the extraordinary capabilities of AI to revolutionize our world.
 </p>
