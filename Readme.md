@@ -1,4 +1,3 @@
-
   <img src="images/Me.jpg" alt="Code"> 
   <!-- Background image for Dale comes here -->
 
