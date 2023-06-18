@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ![I am GitHub Readme Generator's creator](https://lh3.googleusercontent.com/pw/AJFCJaXxrl2GpkoF-Bx4FYiwDBjtPxcOQlaMiMjbSaHBTm8VAJ1h5NhJFvifmYIXNYCy1jdgqBwFIbf4F36n0Nm51zZ_aTLsr90Cj3f_7wiw6a7nPT13kNwTkv5xWbnL4SmzjE_-mIiBo4xlqbcfKANP4m15rt9qcDsq7F8upgTV-cFhF8cAtgd5cmM6Lys9krCC0s1qiZhceohdhpFSWnbkrbCo5i8Yy1t3MB1gS2_8lH4nGnLY52nVHbhfkBHxoNnsrHSY1NZ8CYOxd0rEmDJkwnbN9BGRTK7Gwen08sFEdFzKTRuysepxSHzg2Uo2-qMwIYFgqNlQ74mkPRIbqrBy3KKuYfd1u28784B_FWc0jlmtQiXitLycUmJc0ZvbEO10Z7lg1AZvWRsa_b_CdWl3N3dnNUFjn40dgtzBOs9f86G6om0BgW2xCzRfXSGLuYDgboazo3a4t99FHj7wXwQG1Dhk3gNfumo5JKrcjXXJlVwxq3Y_I48IUNhaThMKK_uI0ezqZOgvUXzbEy2LL5zsj9dTB27DUf1239Ju3hUCfF4Nf9L6HCdNP98OSsTSQngzZrhDyv783kE8lpLqFy_DJ7D10NMrbO8XhnyAWjWgpITdD05hr_9pnj0-tRkCjb55MS6_hSYaZwzXq-0Y9r8n__hcHeqooz7nBbLrlOl9LmhXlbO1-j5tsdCnHG8VmRMNHqyVqHBee91CnY0b01we0alOmrJVeCdKY3dQGmyC0rZ7JNnDFdf-YvInbmZAvsB46sdDnWNU-oSg37gEVPo8wYNsTxZVTjarBInCExe6dkopbDALajppp1zwdjOqzxC0ak9atGCIKVnwbiuAcPj6UdWeSiNwdU1FPL6ADtJBtxBmESqMualdNQJOiaaDY8aU_latMf_Ps5qb9fwt_8mEyBQH0fy4ax5o4QatuEyGavKbtPwS1pStHtfT7O0C20rvul_9gb3fb-qL0W7glbfWrH07IztBN5IgFw=w1640-h924-s-no?authuser=0)
+=======
+
+  <img src="images/Me.jpg" alt="Code"> 
+  <!-- Background image for Dale comes here -->
+
+>>>>>>> Styles
 # Hello there
 # I'm Dale McMcleris
 
