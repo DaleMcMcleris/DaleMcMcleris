@@ -3,6 +3,7 @@
 
 ![I am GitHub Readme Generator's Creator](https://pbs.twimg.com/media/Fy6HHj1X0AEHTCL?format=jpg&name=large)
 
+
 <p>A software engineer crafting stunning web experiences with pixel-perfect precision - a frontend developer passionate about combining beautiful design with seamless functionality for an unforgettable user experience. I am an AI prompt engineer, deeply devoted to the world of technology and artificial intelligence. Driven by an insatiable passion, I aim to push the boundaries of what's possible, unraveling the extraordinary capabilities of AI to revolutionize our world.
 </p>
 <br>
@@ -46,7 +47,6 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 <!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dalemcmcleris&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -58,14 +58,13 @@
 <!-- 
 
 
-
 <br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <h2>
-    <summary>👨‍💻 Dale's Coding Journey</summary>
+    <summary>👨‍💻 Dale's Coding Journey 👨‍💻 </summary>
 </h2>
 
 As a self-taught software engineer, I am passionate about developing beautiful and functional web experiences. With a focus on frontend development and web design, I strive to create visually stunning and highly intuitive user interfaces that delight and engage users. As a tech enthusiast, I am constantly exploring new technologies and techniques to push the boundaries of what is possible on the web, from responsive layouts to cutting-edge graphics and animations. Whether working independently or as part of a team, I am committed to delivering exceptional results and exceeding the expectations of clients and users alike.
