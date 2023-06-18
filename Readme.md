@@ -1,7 +1,7 @@
   <img src="images/Me.jpg" alt="Code"> 
   <!-- Background image for Dale comes here -->
 
-# Hello there
+# Hello there  
 # I'm Dale McMcleris
 
 
