@@ -1,6 +1,3 @@
- 
-  <!-- Background image for Dale comes here -->
-
 
 # Hello there  
 # I'm Dale McMcleris
