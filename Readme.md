@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](/Programmer.jpg)
 
-## I am Dale McMclery
+# I am Dale McMclery
 <p>A software engineer crafting stunning web experiences with pixel-perfect precision - a frontend developer passionate about combining beautiful design with seamless functionality for an unforgettable user experience. I am also an AI prompt engineer, deeply devoted to the world of technology and artificial intelligence. Driven by an insatiable passion, I aim to push the boundaries of what's possible, unraveling the extraordinary capabilities of AI to revolutionize our world.
 </p>
 <br>
